@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-http-smart-switch",
+  "version": "0.0.1",
+  "description": "A Homebridge providing a smart button driven by HTTP notifications",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "switch",
+    "button"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onfoot/homebridge-smart-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onfoot/homebridge-smart-switch/issues"
+  },
+  "homepage": "https://github.com/onfoot/homebridge-smart-switch",
+  "engines": {
+    "node": ">=10.0.0",
+    "homebridge": ">=0.4.45"
+  }
+}
